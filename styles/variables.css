@@ -1,24 +1,23 @@
 /* В этом файле будут храниться все значения переменных в исходном состоянии, а так же их изменения в зависимости от ширины устройства */
+
 :root {
   --font-variable: "Inter-Variable", sans-serif;
-  --font-regular: "PressStart2P-Regular", sans-serif;
-  --font-weight--common: 400;
-  --font-weight--card-header: 700;
-  --font-size--card-logo: 14px;
+  --font-regular: "PressStart2P-Regular", fantasy;
+  --font-weight-common: 400;
   --min-width: 375px;
   --max-width: 1440px;
   --width-header: 100%;
   --font-size--logo: 49px;
-  --font-size--h1: 14px;
-  --background-image: url("../images/375x667_background.png");
-  --like-background-color: #fff;
+  --font-size-title: 14px;
+  --button-background-color: #fff;
   --text-stroke: #fff;
   --accent-color: #000;
   --contour-color: black;
-  --animation-fill-color: #FF0000;
+  --animation-fill-color: #f00;
   --main-body-color: black;
   --core-color: #fff;
-  --background-gradient: repeating-linear-gradient(
+  --background-gradient:
+    repeating-linear-gradient(
       90deg,
       #d3d3d3,
       #d3d3d3 2px,
