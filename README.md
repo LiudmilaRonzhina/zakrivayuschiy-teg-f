@@ -8,5 +8,5 @@
 1. HTML
 2. CSS
 ## Ссылка на проект
-https://liudmilaronzhina.github.io/zakrivayuschiy-teg-f/
+https://github.com/LiudmilaRonzhina/zakrivayuschiy-teg-f.git
 
